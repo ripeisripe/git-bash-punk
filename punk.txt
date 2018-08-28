@@ -1,4 +1,23 @@
-Hello Pol, je me suis trompe
-Facile jusqu'a present.
-Bonjour,
-J'ai tout effacé
+Liste des commandes utilisées
+=============================
+
+BASH
+----
+
+* pwd : affiche le chemin de répertoire courant
+* clear ou ctrl+l : efface l'écran
+* ls : affiche la liste des fichiers et répertoires du dossier courant, l'option -a permet d'afficher les fichiers cachés
+* mv : renomme/déplace des fichiers ou dossiers
+* cat : affiche le contenu d'un fichier texte
+* rm -rf dossier/ : supprime tous les fichiers et dossiers du répertoire sans demander confirmation (-f)
+
+
+VIM
+---
+
+* :w sauvegarde le fichier
+* :q! quitte le fichier sans sauvegarder
+* :wq ou :x sauve et quitte
+* dd supprime la ligne courante, Ndd supprime les N lignes suivantes
+* p pour coller sur la ligne suivante, P sur la précédente
+* u undo, annule la modification précédente
