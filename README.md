@@ -1,6 +1,9 @@
 Liste des commandes utilisées
 =============================
 
+GIT
+---
+
 * Documentation pour GIT :
 * git clone url : permet de recuperer le repository
 * git remote -v  : permet de savoir quel repo on est, le v est pour verbose
