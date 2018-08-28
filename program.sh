@@ -1,5 +1,4 @@
 #!/bin/bash
 
-echo "Hello "
-
-echo "Hello cotcot"
+echo "Hello POL"
+echo "coucou"
