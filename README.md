@@ -1,13 +1,13 @@
 Liste des commandes utilisées
 =============================
 
-Documentation pour GIT :
-git clone url : permet de recuperer le repository
-git remote -v  : permet de savoir quel repo on est, le v est pour verbose
-git status : pour savoir dans quel etat on est
-git add fichier ou . : des fichier ont etes modifies et on les veut les ajoute
-git commit -m "message" on agit sur l'ensemble des fichiers
-git push : on envoye sur le reseau
+* Documentation pour GIT :
+* git clone url : permet de recuperer le repository
+* git remote -v  : permet de savoir quel repo on est, le v est pour verbose
+* git status : pour savoir dans quel etat on est
+* git add fichier ou . : des fichier ont etes modifies et on les veut les ajoute
+* git commit -m "message" on agit sur l'ensemble des fichiers
+* git push : on envoye sur le reseau
 
 
 BASH
