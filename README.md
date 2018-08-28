@@ -1,5 +1,8 @@
+GIT 
+===
+
 Liste des commandes utilisées
-=============================
+-----------------------------
 
 * Documentation pour GIT :
 * git clone url : permet de recuperer le repository
@@ -11,7 +14,7 @@ Liste des commandes utilisées
 
 
 BASH
-----
+====
 
 * Les commandes shell bash
 * pwd : print work directory
@@ -24,7 +27,7 @@ BASH
 
 
 VIM
----
+===
 
 * :w sauvegarde le fichier
 * :q! quitte le fichier sans sauvegarder
