@@ -35,3 +35,6 @@ VIM
 * dd supprime la ligne courante, Ndd supprime les N lignes suivantes
 * p pour coller sur la ligne suivante, P sur la précédente
 * u undo, annule la modification précédente
+* gg aller en haut du document
+* G aller en bas du document
+
