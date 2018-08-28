@@ -2,4 +2,22 @@ Hello Pol, je me suis trompe
 
 Facile jusqu'a present.
 
+Documentation pour Origin :
+git clone url : permet de recuperer le repository
+git remote -v  : permet de savoir quel repo on est, le v est pour verbose
+git status : pour savoir dans quel etat on est
+git add fichier ou . : des fichier ont etes modifies et on les veut les ajoute
+git commit -m "message" on agit sur l'ensemble des fichiers
+git push : on envoye sur le reseau
+
+
+
+Les commandes shell bash
+pwd : print work directory
+clear : clear the screan
+ls : list files and directory
+ls -a : show hidden files and directory
+mv : move or rename
+cat : show a file 
+rm -rf dirname : HELL delete all directory and force to it. HELL
 
